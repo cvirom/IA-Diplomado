@@ -32,8 +32,8 @@
 
 ## Clase 7
 - Deep Learning & Transfer Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[Transfer Learning](https://nbviewer.jupyter.org/github/iapucp/IA-Diplomado/blob/master/Python%20for%20Data%20Science/notebooks/06%20-%20Cats%20and%20Dogs.ipynb)]
+- [Deep Residual Learning for Image Recognition (Kaiming He et al.)](https://arxiv.org/pdf/1512.03385.pdf)
 
 ## Clase 8
 - NLP, deployment [[slides](https://docs.google.com/presentation/d/170pzA1gqY5tLyMqg2-umrvPWZmyZKkk-23-0hLIm-r4/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2006%20-%20Clasificacion%20de%20Texto.ipynb)]
 - [Designing great data products (Jeremy Howard et al.)](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
-- [Deep Residual Learning for Image Recognition (Kaiming He et al.)](https://arxiv.org/pdf/1512.03385.pdf)
