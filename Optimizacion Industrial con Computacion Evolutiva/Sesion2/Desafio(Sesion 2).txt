@@ -1,0 +1,2 @@
+Implementar Muestreo Estocastico Universal (diapositiva Nro 16)
+sobre cualquier tipo de representacion: binario, dloat, permutacion,string
